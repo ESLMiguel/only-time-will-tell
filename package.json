@@ -1,0 +1,30 @@
+{
+  "name": "time_stamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice challenge on FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESLMiguel/only-time-will-tell.git"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "fcc",
+    "heroku",
+    "api",
+    "unix"
+  ],
+  "author": "ESLMiguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESLMiguel/only-time-will-tell/issues"
+  },
+  "homepage": "https://github.com/ESLMiguel/only-time-will-tell#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
